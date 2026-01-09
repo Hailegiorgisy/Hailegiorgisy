@@ -30,4 +30,4 @@
 - **Health information systems** — DHIS2 database management, SQL querying, data cleaning & validation  
 - **Other strengths** — Fast typing in English & Amharic, qualitative & quantitative research, project data management
 
-**Application domains** — Public health research, epidemiology, nutrition interventions, TB/MDR-TB monitoring, COVID-19 response, skin NTDs surveillance, health systems strengthening
+**Application domains** — Public health research, epidemiology, nutrition interventions, TB/MDR-TB, skin NTDs , health systems strengthening

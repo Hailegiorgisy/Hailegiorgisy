@@ -8,6 +8,7 @@ Addis Ababa, Ethiopia • [LinkedIn](https://linkedin.com/in/hailegiorgis-yirgu)
 ---
 
 *Bridging clinical medicine, epidemiological analytics, and data-driven health systems to solve complex public health challenges.*
+*Decolonizing technology in health using open sourcing.*
 
 </div>
 

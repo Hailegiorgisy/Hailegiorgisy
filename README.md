@@ -1,95 +1,77 @@
 <div align="center">
 
-# Dr. Hailegiorgis Yirgu Habtie 🩺📊
-**Medical Doctor | Public Health Nutritionist | Health Data Scientist| Full Stack Development**
+# Hailegiorgis Yirgu Habtie
+### Medical Doctor • Public Health Nutritionist • Health Data Scientist • Full-Stack Developer
 
-Addis Ababa, Ethiopia • [LinkedIn](https://linkedin.com/in/hailegiorgis-yirgu) • [GitHub](https://github.com/Hailegiorgisy) • [Email](mailto:hgyirgu1@gmail.com)
-
----
-
-*Bridging clinical medicine, epidemiological analytics, and data-driven health systems to solve complex public health challenges.*
-*Decolonizing technology in health using open sourcing.*
+[LinkedIn](https://linkedin.com/in/hailegiorgis-yirgu) • [GitHub](https://github.com/Hailegiorgisy) • [Email](mailto:hgyirgu1@gmail.com) • Addis Ababa, Ethiopia
 
 </div>
 
-<br>
+> I turn health data, clinical insight, and digital tools into solutions that improve public health outcomes and health systems.
 
-## 👨‍⚕️ About Me
+## About Me
+I am a Medical Doctor and Public Health Nutritionist with experience across clinical care, epidemiological research, program implementation, and digital health. My work sits at the intersection of medicine, public health, data science, and technology—where I build tools and analyses that support decision-making in real-world health settings.
 
-I am a Medical Doctor and Public Health Nutritionist with over 9 years of diverse experience spanning clinical medicine, academic instruction, epidemiological research, and large-scale public health project implementation in Ethiopia. A graduate of St. Paul's Hospital Millennium Medical College, my career has evolved from frontline patient care and academic lecturing at Adigrat University to coordinating regional crisis response (such as serving as a COVID-19 Case Management Advisor for SNNPR at EPHI), managing national-level clinical initiatives with the KNCV TB Foundation, and directing data operations for pragmatic clinical trials at the Armauer Hansen Research Institute (AHRI).
+I enjoy translating complex health problems into practical, data-driven solutions, from epidemiological analysis and AI-enabled diagnostics to digital platforms and health information systems.
 
-Complementing this deep clinical and epidemiological background, I operate at the technical cutting edge as a  Data Analyst, and Data Scientist**. I bridge the chasm between raw medical workflows and advanced digital execution by building automated data pipelines, machine learning predictive models, and custom web architectures.
+## What I Do
+- Public health analytics and epidemiology
+- Health data science and machine learning
+- Digital health and full-stack product development
+- Research, surveillance, and program evaluation
+- Health systems strengthening and data-informed decision support
 
-- 🔬 **Current Focus:** Health data engineering, epidemiological modeling, and AI applications in medical diagnostics.
-- 💡 **Key Expertise:** TB/MDR-TB surveillance, public health nutrition, Neglected Tropical Diseases (Skin NTDs), and health systems strengthening (HSS).
-- 🤝 **Open for Collaboration:** Health data science projects, biostatistical analysis, full-stack digital health solutions, and public health informatics initiatives.
+## Core Skills
+### Data & Health Analytics
+Python • R • SQL • Pandas • NumPy • Stata • SPSS • Excel • Power BI • Tableau
 
----
+### Machine Learning & AI
+TensorFlow • Scikit-learn • Predictive modeling • Data pipelines • Clinical risk analysis
 
-### 🛠️ Technical Competencies & Tooling
+### Development
+FastAPI • React • Node.js • JavaScript • HTML/CSS • REST APIs • Full-stack application development
 
-#### 📊 Statistical & Epidemiological Computing
-<p align="left">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Stata-1E4F9A?style=for-the-badge&logo=stata&logoColor=white" alt="Stata" />
-  <img src="https://img.shields.io/badge/SPSS-003399?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS" />
-</p>
+### Public Health Domains
+TB/MDR-TB surveillance • Nutrition • Epidemiology • Neglected Tropical Diseases • Health systems strengthening • Program monitoring
 
-* **Core Methods:** Regression modeling, survival analysis (Cox/Kaplan-Meier), complex survey design weighting, meta-analysis, and clinical epidemiological studies.
+## Featured Work
+### [AfroPDFReader](https://github.com/Hailegiorgisy/AfroPDFReader)
+Python-based desktop PDF reader utility focused on local, practical document workflows.
 
----
+### [afrojobspy](https://github.com/Hailegiorgisy/afrojobspy)
+A Python project designed to support job market data gathering and analysis in African contexts.
 
-#### 🐍 Data Science, ML & Full-Stack Engineering
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/DHIS2-00A676?style=for-the-badge&logo=dhis2&logoColor=white" alt="DHIS2" />
-</p>
+### [ajobspy](https://github.com/Hailegiorgisy/ajobspy)
+A data-focused project exploring job market insights through automation and analysis.
 
-* **Data Wrangling & Pipeline Automation:** Pandas, NumPy, and complex SQL querying for health databases.
-* **Predictive AI & Backend:** TensorFlow for diagnostic models, risk stratification, and FastAPI / Node.js for secure backend architectures.
-* **Health Information Systems:** DHIS2 routine health data pipelines, database validation, and quality management.
+### [Africa_population_prediction](https://github.com/Hailegiorgisy/Africa_population_prediction)
+Data science project focused on population trend analysis and forecasting.
 
----
+### [capstone_wheat_detection](https://github.com/Hailegiorgisy/capstone_wheat_detection)
+Deep learning capstone project applying computer vision to agricultural detection.
 
-#### 📈 Business Intelligence & Visualization
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-</p>
+## Why I’m Valuable to Teams
+- Strong mix of medical/public health knowledge and technical execution
+- Ability to work across research, analysis, and product implementation
+- Experience building health-focused data solutions with real-world impact
+- Interested in work that combines health, AI, and digital transformation
 
-* **Interactive Dashboards:** Outbreak surveillance (TB/MDR-TB), nutrition monitoring indicators, and health system performance tracking.
-* **Advanced Reporting:** Dynamic Excel data modeling, Power Query, VBA automation, and executive summary reports.
+## Open to Opportunities
+I am open to roles in:
+- Health Data Science
+- Public Health Analytics
+- Digital Health / HealthTech
+- Data Analyst / Data Scientist roles
+- Full-Stack or Product-focused health technology projects
 
----
-
-#### 🌍 Domain Specializations & Expertise
-> **Clinical & Public Health Focus:** Epidemiology & Surveillance • TB & MDR-TB Management • Public Health Nutrition • Neglected Tropical Diseases (Skin NTDs) • Health Systems Strengthening (HSS) • Mixed-Methods Research
-
----
-
-## 📌 Featured Projects
-
-| Project | Domain | Tech Stack | Highlights |
-| :--- | :--- | :--- | :--- |
-| **[TB Adherence Prediction Tool](https://github.com/Hailegiorgisy)** | Predictive Health | Python, FastAPI, Next.js, ML | Predictive modeling tool designed to forecast treatment adherence, backed by a high-performance FastAPI backend and a modern frontend interface. |
-| **[AfroPDFReader](https://github.com/Hailegiorgisy)** | Digital Utility | Python, PyWebView, HTML/JS | Open-source desktop PDF reader application built with Python and PyWebView, optimized for lightweight document navigation. |
-| **[Epidemiological Data Pipelines]** | Health Analytics | R, Python, Pandas | End-to-end data cleaning, survey weighting, and survival analysis automation for public health research studies. |
-| **[Patient Appointment Engine]** | Digital Health | Node.js, Express, MongoDB, React | Full-stack clinical management backend engineered with modular REST architecture and role-based access control. |
-
----
+If you are building products or teams that improve health systems through data, technology, and evidence, I would be glad to connect.
 
 ---
 
 <div align="center">
 
-###  📫 Connect & Collaborate
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hailegiorgis-yirgu)
-[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hailegiorgisy)
-[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hgyirgu1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hailegiorgis-yirgu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hailegiorgisy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hgyirgu1@gmail.com)
 
 </div>

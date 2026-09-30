@@ -50,6 +50,25 @@ Data science project focused on population trend analysis and forecasting.
 ### [capstone_wheat_detection](https://github.com/Hailegiorgisy/capstone_wheat_detection)
 Deep learning capstone project applying computer vision to agricultural detection.
 
+### 🔬 Data Science & Scientific Research
+- [Africa_population_prediction](https://github.com/Hailegiorgisy/Africa_population_prediction) — Demographic ensemble modeling and longitudinal forecasting (UN WPP / WHO).
+- [knee-abnormality-detection](https://github.com/Hailegiorgisy) — Deep learning computer vision for musculoskeletal medical imaging.
+
+### 🤖 Autonomous AI Agents & Workflows
+- [phd_agent](https://github.com/Hailegiorgisy/phd_agent) — LLM-driven research proposal generator with structured Pydantic schemas.
+- [opportunities](https://github.com/Hailegiorgisy/opportunities) — Daily opportunity matching and dispatch agent for clinical & technical roles.
+- [personal_telegram_summary_bot](https://github.com/Hailegiorgisy/personal_telegram_summary_bot) — Automated Telegram news and intelligence digest bot.
+- [tech_analyser](https://github.com/Hailegiorgisy/tech_analyser) — Automated tech ecosystem trend digest.
+
+### 📦 Open-Source Developer Libraries
+- [ajobspy](https://github.com/Hailegiorgisy/ajobspy) — Asynchronous Python toolkit for resilient web scraping with proxy rotation and exponential backoff.
+
+### 🏥 Digital Health & Clinical Systems
+- [adhere2Regimen](https://github.com/Hailegiorgisy/adhere2Regimen) — Clinical medication adherence monitoring system for TB cohorts in low-resource environments.
+
+### 📱 Web & Mobile Applications
+- [korcha-shein-ethiopia](https://github.com/Hailegiorgisy) — Mobile-first cross-border e-commerce concierge with an Amharic UI and Telebirr checkout.
+
 ## Why I’m Valuable to Teams
 - Strong mix of medical/public health knowledge and technical execution
 - Ability to work across research, analysis, and product implementation

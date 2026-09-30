@@ -107,7 +107,7 @@ I specialize in translating complex health problems into practical, data-driven 
 - **Armauer Hansen Research Institute (AHRI)** — Clinical research, epidemiological data analysis, and infectious disease modeling.
 - **Addis Ababa University (AAU)** — Full-Stack Software Development & DevSecOps.
 - **USAID TB LON KAP Activity** — Clinical advisory, data monitoring, and intervention strategy design.
-
+- **EASE AFRICA** — Data analysis
 ---
 
 ## 📬 Open to Opportunities

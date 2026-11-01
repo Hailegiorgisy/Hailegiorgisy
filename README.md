@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hailegiorgis Yirgu Habtie
-### Medical Doctor • Public Health Nutritionist • Health Data Scientist • Full-Stack Developer
+### Medical Doctor • Public Health Nutritionist • Health Data Scientist
 
 [LinkedIn](https://linkedin.com/in/hailegiorgis-yirgu) • [GitHub](https://github.com/Hailegiorgisy) • [Email](mailto:hgyirgu1@gmail.com) • Addis Ababa, Ethiopia
 
